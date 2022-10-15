@@ -29,4 +29,15 @@
     },
     "tagline": "Full Stack Developer, Community Manager @HEKORS"
   }
+  ,
+  {
+    "firstName": "Rajeev",
+    "lastName": "Krishna",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/rajeevkrishna25",
+      "github": "https://github.com/radzhiv25",
+      "twitter": "https://twitter.com/radzhivdev"
+    },
+    "tagline": "Frontend Developer"
+  }
 ]
