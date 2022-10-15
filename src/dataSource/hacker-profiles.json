@@ -1,11 +1,12 @@
 [
-    {
-        "firstName": "Yash",
-        "lastName": "Sehgal",
-        "contacts": {
-            "github": "yashsehgal",
-            "twitter": "yashsehgaldev"
-        },
-        "tagline": "Design God! Community Manager @HEKORS"
-    }
+  {
+    "firstName": "Yash",
+    "lastName": "Sehgal",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/sehgalyash/",
+      "github": "https://github.com/yashsehgal",
+      "twitter": "https://twitter.com/yashsehgaldev"
+    },
+    "tagline": "Design God! Community Manager @HEKORS"
+  }
 ]
