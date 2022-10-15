@@ -18,5 +18,15 @@
       "twitter": "https://twitter.com/s_jaspreet099"
     },
     "tagline": "Proest of the pros xD!"
+  },
+  {
+    "firstName": "Ayush",
+    "lastName": "Soni",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/ayushsoni1010/",
+      "github": "https://github.com/ayushsoni1010",
+      "twitter": "https://twitter.com/ayushsoni1010"
+    },
+    "tagline": "Full Stack Developer, Community Manager @HEKORS"
   }
 ]
