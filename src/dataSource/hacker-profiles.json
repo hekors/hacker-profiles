@@ -8,7 +8,38 @@
       "twitter": "https://twitter.com/yashsehgaldev"
     },
     "tagline": "Design God! Community Manager @HEKORS"
-  },{
+  },
+  {
+    "firstName": "Jaspreet Singh",
+    "lastName": "Saini",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/jaspreet099/",
+      "github": "https://github.com/Jaspreet099",
+      "twitter": "https://twitter.com/s_jaspreet099"
+    },
+    "tagline": "Proest of the pros xD!"
+  },
+  {
+    "firstName": "Ayush",
+    "lastName": "Soni",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/ayushsoni1010/",
+      "github": "https://github.com/ayushsoni1010",
+      "twitter": "https://twitter.com/ayushsoni1010"
+    },
+    "tagline": "Full Stack Developer, Community Manager @HEKORS"
+  },
+  {
+    "firstName": "Rajeev",
+    "lastName": "Krishna",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/rajeevkrishna25",
+      "github": "https://github.com/radzhiv25",
+      "twitter": "https://twitter.com/radzhivdev"
+    },
+    "tagline": "Frontend Developer"
+  },
+  {
     "firstName": "Simran",
     "lastName": "Gangwani",
     "contacts": {
@@ -19,3 +50,4 @@
     "tagline": "Technical Content Writer @ScalerAcademy & @codedamn"
   }
 ]
+
