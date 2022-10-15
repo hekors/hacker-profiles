@@ -23,7 +23,7 @@ export default function Card({ cardData }) {
           >
             <FaLinkedin />
           </a>}
-          {cardData?.contacts?.twitter && <a
+          {cardData?.contacts?.github && <a
             href={cardData?.contacts?.github}
             target="_blank"
             rel="noreferrer"
@@ -31,7 +31,7 @@ export default function Card({ cardData }) {
           >
             <FaGithub />
           </a>}
-          {cardData?.contacts?.github && <a
+          {cardData?.contacts?.twitter && <a
             href={cardData?.contacts?.twitter}
             target="_blank"
             rel="noreferrer"
