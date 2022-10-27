@@ -68,6 +68,16 @@
       "twitter": "https://twitter.com/SiddakSk"
     },
     "tagline": "Make it work, make it right, make it fast."
+  },
+  {
+    "firstName": "Vincy",
+    "lastName": "Jain",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/vincyjain04/",
+      "github": "https://github.com/vincy04",
+      "twitter": "https://twitter.com/vincyjain04"
+    },
+    "tagline": "Learning web development, open source 🚀"
   }
 ]
 
