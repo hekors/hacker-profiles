@@ -25,7 +25,9 @@ export default function Footer() {
 
           <a
             class="inline-flex items-center rounded border p-2 bg-gray-50"
-            href="/download"
+            href="https://github.com/hekors/hacker-profiles"
+            target="_blank"
+            rel="noreferrer"
           >
             <span class="text-sm font-medium mx-2"> Contribute </span>
 
