@@ -88,6 +88,16 @@
       "twitter": "https://twitter.com/vincyjain04"
     },
     "tagline": "Learning web development, open source 🚀"
+  },
+  {
+    "firstName": "Adarsh",
+    "lastName": "Dubey",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/dubeyadarsh/",
+      "github": "https://github.com/inclinedadarsh",
+      "twitter": "https://twitter.com/inclinedadarsh"
+    },
+    "tagline": "Open-Source ethusiast 🚀"
   }
 ]
 
