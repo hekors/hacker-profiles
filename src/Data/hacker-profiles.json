@@ -103,10 +103,11 @@
     "firstName": "Devarshi",
     "lastName": "Shimpi",
     "contacts": {
+      "linkedin": "https://www.linkedin.com/in/devarshi-shimpi/",
       "github": "https://github.com/devarshishimpi",
       "twitter": "https://twitter.com/DevarshiShimpi"
     },
-    "tagline": "Open-Source ethusiast 🚀"
+    "tagline": "Building @Noteslify and @StoneCSS"
   }
 ]
 
