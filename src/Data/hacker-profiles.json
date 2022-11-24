@@ -98,7 +98,17 @@
       "twitter": "https://twitter.com/inclinedadarsh"
     },
     "tagline": "Open-Source ethusiast 🚀"
-  }
+  },
+  {
+    "firstName": "Monesh",
+    "lastName": "Goyal",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/monesh-goyal/",
+      "github": "https://github.com/2201monesh",
+      "twitter": "https://twitter.com/GoyalMonesh"
+    },
+    "tagline": "Still struggling to center a div"
+  },
   {
     "firstName": "Devarshi",
     "lastName": "Shimpi",
