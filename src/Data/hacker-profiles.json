@@ -10,14 +10,14 @@
     "tagline": "Design God! Community Manager @HEKORS"
   },
   {
-    "firstName" : "Sumit",
-    "lastName" : "Singh",
-    "contacts" : {
-      "linkedin" : "https://www.linkedin.com/in/wh0sumit",
-      "github" : "https://github.com/wh0sumit",
-      "twitter" : "https://twitter.com/wh0sumit"
+    "firstName": "Sumit",
+    "lastName": "Singh",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/wh0sumit",
+      "github": "https://github.com/wh0sumit",
+      "twitter": "https://twitter.com/wh0sumit"
     },
-    "tagline" : "Developer who brings ideas to life"
+    "tagline": "Developer who brings ideas to life"
   },
   {
     "firstName": "Jaspreet Singh",
@@ -32,7 +32,7 @@
   {
     "firstName": "Ayush",
     "lastName": "Soni",
-      "contacts": {
+    "contacts": {
       "linkedin": "https://www.linkedin.com/in/ayushsoni1010/",
       "github": "https://github.com/ayushsoni1010",
       "twitter": "https://twitter.com/ayushsoni1010"
@@ -100,6 +100,16 @@
     "tagline": "Open-Source ethusiast 🚀"
   },
   {
+    "firstName": "Monesh",
+    "lastName": "Goyal",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/monesh-goyal/",
+      "github": "https://github.com/2201monesh",
+      "twitter": "https://twitter.com/GoyalMonesh"
+    },
+    "tagline": "Still struggling to center a div"
+  },
+  {
     "firstName": "Devarshi",
     "lastName": "Shimpi",
     "contacts": {
@@ -110,4 +120,3 @@
     "tagline": "Building @Noteslify and @StoneCSS"
   }
 ]
-
