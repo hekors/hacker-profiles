@@ -118,5 +118,15 @@
       "twitter": "https://twitter.com/DevarshiShimpi"
     },
     "tagline": "Building @Noteslify and @StoneCSS"
+  },
+  {
+    "firstName": "Akhilesh",
+    "lastName": "Waghmare",
+    "contacts": {
+      "linkedin": "https://www.linkedin.com/in/akhilesh-w/",
+      "github": "https://github.com/akhilesh-w",
+      "twitter": "https://twitter.com/the_akhilesh_w"
+    },
+    "tagline": "Designer & Developer"
   }
 ]
